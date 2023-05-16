@@ -7,9 +7,7 @@ IA chat bot in discord.js using openai API
 
 you need to install some npm dependencies 
 
-npm i discord
-npm i openai
-npm i dotenv
+npm i discord, openai, dotenv
 
 10/01/2023 
 
